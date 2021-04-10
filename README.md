@@ -1,4 +1,4 @@
-# Sistema-Escolar
+# Sistema-Escolar DESTOCK
 Sistema para escuelas y colegios 
 
 Sistema completo para  escuelas y colegios  en el cual se puedan hacer todas
