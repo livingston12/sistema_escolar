@@ -1,5 +1,5 @@
-# Sistema-Escolar DESTOCK
-Sistema para escuelas y colegios 
+# Sistema-Escolar 
+Sistema para escuelas y colegios (Desktop)
 
 Sistema completo para  escuelas y colegios  en el cual se puedan hacer todas
 las operaciones de una escuela.
