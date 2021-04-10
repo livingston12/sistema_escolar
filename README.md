@@ -16,4 +16,4 @@ las operaciones de una escuela.
 <li>OTROS </li></b></ul>
 
 
-<b>Created By Livingston Lyttle Reynoso en año 2017</b>
+Created By <b>Livingston Lyttle Reynoso</b> en año <b>2017</b>
